@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm moc 👋
 
-<!--
-**buiducminhCAO/buiducminhCAO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Double-degree student in **Finance** and **Mathematics**, working toward a career in **Operations Research**.
 
-Here are some ideas to get you started:
+## What I'm into
+- Optimization — scheduling, supply chain, and financial optimization (currently learning)
+- Applied mathematical modelling — group research project in progress
+- Turning quantitative problems into decisions that actually get made
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+`Python` · `SQL` · `R`
+
+## Get in touch
+📧 buiducminhcao.job@gmail.com
