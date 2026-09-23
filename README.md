@@ -1,4 +1,4 @@
-# Hi, I'm Minh 👋
+# Hi, I'm Cao 👋
 
 **Applied mathematics · Finance · Optimization**<br>
 Student · Curtin University, Perth, Australia
