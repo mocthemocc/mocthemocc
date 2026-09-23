@@ -1,20 +1,21 @@
 # Hi, I'm Minh 👋
 
-**Optimization · Applied mathematical modelling · Quantitative decision-making**<br>
-Student at Curtin University, Perth, Australia
+**Applied mathematics · Finance · Optimization**<br>
+BSc (Mathematics) / BCom (Finance) student · Curtin University, Perth, Australia
 
-I turn quantitative problems into decisions that actually get made: framing the question, building a model that captures what matters, and explaining the result clearly enough for someone to act on it.
+I study mathematics and finance, and I like turning quantitative problems into decisions that actually get made: framing the question, building a model that captures what matters, and explaining the result clearly enough for someone to act on it.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-caominh189-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caominh189/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-caominh189-0A66C2?style=flat)](https://www.linkedin.com/in/caominh189/)
 [![Email](https://img.shields.io/badge/Email-buiducminhcao.job%40gmail.com-EA4335?style=flat)](mailto:buiducminhcao.job@gmail.com)
 
 ## Focus areas
 
 - **Optimization**: formulating decision problems and finding the best feasible choice
 - **Applied mathematical modelling**: describing real systems with equations, then solving and testing the model
+- **Finance**: corporate finance, investment analysis, and portfolio performance and risk
 - **Communicating results**: reports and presentations that turn model output into clear recommendations
 
-## Featured project
+## Featured projects
 
 ### [Energy model of an indoor ice hockey stadium](https://github.com/mocthemocc/applied-mathematical-modelling-2026)
 
@@ -29,6 +30,28 @@ Project objectives:
 - Turn the predictions into energy consumption estimates and validate them against published measurements
 
 The Python code runs a sensitivity analysis and draws the thermal network diagram.
+
+### Human vs AI portfolio management
+
+*Curtin University · team project · repository private (assessed coursework)*
+
+We managed a simulated AUD 300,000 equity portfolio on StockTrak alongside a second AUD 300,000 portfolio that followed generative-AI recommendations without modification. We are now comparing the two:
+
+- Risk-adjusted performance: Sharpe and Sortino ratios, Jensen's alpha and the impact of exchange rates
+- Market-wide (systematic) and stock-specific (idiosyncratic) drivers of performance
+- What the results say about market efficiency, including behavioural biases
+- Analysis in Python using StockTrak exports and index, exchange-rate and risk-free rate data
+
+## Education
+
+**Bachelor of Science (Mathematics) and Bachelor of Commerce (Finance)**, double degree<br>
+Curtin University, Perth
+
+Relevant coursework:
+
+- **Mathematics and statistics**: Calculus 1 and 2, Linear Algebra 1, Mathematical Modelling, Network Optimisation, Introduction to Probability and Data Analysis, Regression and Nonparametric Inference
+- **Finance**: Corporate Finance, Business Analysis for Investment, Introduction to Financial Instruments and Markets, Introduction to Finance Principles, Financial Decision Making
+- **Quantitative business**: Quantitative Techniques for Business, Analytics for Decision Making
 
 ## Tools
 
