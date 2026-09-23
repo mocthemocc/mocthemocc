@@ -5,7 +5,7 @@ Student · Curtin University, Perth, Australia
 
 I study mathematics and finance, and I like turning quantitative problems into decisions that actually get made: framing the question, building a model that captures what matters, and explaining the result clearly enough for someone to act on it.
 
-Interested in chess ♟️
+Interested in [chess ♟️](https://www.chess.com/member/minhcazxj)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-caominh189-0A66C2?style=flat)](https://www.linkedin.com/in/caominh189/)
 [![Email](https://img.shields.io/badge/Email-buiducminhcao.job%40gmail.com-EA4335?style=flat)](mailto:buiducminhcao.job@gmail.com)
