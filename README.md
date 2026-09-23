@@ -9,5 +9,6 @@
 `Python` · `SQL` · `R`
 
 ## Get in touch
-📧 buiducminhcao.job@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/caominh189/)  
+📧 buiducminhcao.job@gmail.com  
 📧 20937120@student.curtin.edu.au
