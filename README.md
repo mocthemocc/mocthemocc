@@ -21,7 +21,7 @@ Interested in [chess♟️](https://www.chess.com/member/minhcazxj)
 
 ### [Energy model of an indoor ice hockey stadium](https://github.com/mocthemocc/applied-mathematical-modelling-2026)
 
-*Curtin University · group project*
+*Curtin University · group project · on going*
 
 An ice hockey stadium has to be heated and refrigerated at the same time: the upper zone is kept at a comfortable temperature for spectators, while the lower zone sits directly above the ice. We model the building as these two lumped thermal zones.
 
