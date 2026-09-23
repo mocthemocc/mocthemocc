@@ -21,7 +21,7 @@ Interested in [chess ♟️](https://www.chess.com/member/minhcazxj)
 
 ### [Energy model of an indoor ice hockey stadium](https://github.com/mocthemocc/applied-mathematical-modelling-2026)
 
-*Applied Mathematical Modelling · Curtin University · group project*
+*Curtin University · group project*
 
 An ice hockey stadium has to be heated and refrigerated at the same time: the upper zone is kept at a comfortable temperature for spectators, while the lower zone sits directly above the ice. We model the building as these two lumped thermal zones.
 
@@ -35,7 +35,7 @@ The Python code runs a sensitivity analysis and draws the thermal network diagra
 
 ### Human vs AI portfolio management
 
-*Curtin University · team project · repository private (assessed coursework)*
+*Curtin University · group project · repository private*
 
 We managed a simulated AUD 300,000 equity portfolio on StockTrak alongside a second AUD 300,000 portfolio that followed generative-AI recommendations without modification. We are now comparing the two:
 
