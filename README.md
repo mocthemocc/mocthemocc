@@ -1,7 +1,7 @@
 # Hi, I'm Minh 👋
 
 **Applied mathematics · Finance · Optimization**<br>
-BSc (Mathematics) / BCom (Finance) student · Curtin University, Perth, Australia
+Student · Curtin University, Perth, Australia
 
 I study mathematics and finance, and I like turning quantitative problems into decisions that actually get made: framing the question, building a model that captures what matters, and explaining the result clearly enough for someone to act on it.
 
