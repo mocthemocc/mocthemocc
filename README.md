@@ -1,7 +1,7 @@
 # Hi, I'm Minh 👋
 
 **Optimization · Applied mathematical modelling · Quantitative decision-making**<br>
-Student at Curtin University, Perth, Western Australia
+Student at Curtin University, Perth, Australia
 
 I turn quantitative problems into decisions that actually get made: framing the question, building a model that captures what matters, and explaining the result clearly enough for someone to act on it.
 
