@@ -18,7 +18,7 @@ I turn quantitative problems into decisions that actually get made: framing the 
 
 ### [Energy model of an indoor ice hockey stadium](https://github.com/mocthemocc/applied-mathematical-modelling-2026)
 
-*MATH3001 Applied Mathematical Modelling · Curtin University · Semester 2, 2026 · group project*
+*Applied Mathematical Modelling · Curtin University · group project*
 
 An ice hockey stadium has to be heated and refrigerated at the same time: the upper zone is kept at a comfortable temperature for spectators, while the lower zone sits directly above the ice. We model the building as these two lumped thermal zones.
 
