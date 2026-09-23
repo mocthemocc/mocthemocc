@@ -6,7 +6,7 @@ Student at Curtin University, Perth, Western Australia
 I turn quantitative problems into decisions that actually get made: framing the question, building a model that captures what matters, and explaining the result clearly enough for someone to act on it.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-caominh189-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caominh189/)
-[![Email](https://img.shields.io/badge/Email-buiducminhcao.job%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:buiducminhcao.job@gmail.com)
+[![Email](https://img.shields.io/badge/Email-buiducminhcao.job%40gmail.com-EA4335?style=flat)](mailto:buiducminhcao.job@gmail.com)
 
 ## Focus areas
 
