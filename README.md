@@ -35,7 +35,7 @@ The Python code runs a sensitivity analysis and draws the thermal network diagra
 
 ### Human vs AI portfolio management
 
-*Curtin University · group project · repository private*
+*Curtin University · group project · on going*
 
 We managed a simulated AUD 300,000 equity portfolio on StockTrak alongside a second AUD 300,000 portfolio that followed generative-AI recommendations without modification. We are now comparing the two:
 
