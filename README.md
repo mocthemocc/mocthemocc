@@ -47,13 +47,7 @@ We managed a simulated AUD 300,000 equity portfolio on StockTrak alongside a sec
 ## Education
 
 **Bachelor of Science (Mathematics) and Bachelor of Commerce (Finance)**, double degree<br>
-Curtin University, Perth
-
-Relevant coursework:
-
-- **Mathematics and statistics**: Calculus 1 and 2, Linear Algebra 1, Mathematical Modelling, Network Optimisation, Introduction to Probability and Data Analysis, Regression and Nonparametric Inference
-- **Finance**: Corporate Finance, Business Analysis for Investment, Introduction to Financial Instruments and Markets, Introduction to Finance Principles, Financial Decision Making
-- **Quantitative business**: Quantitative Techniques for Business, Analytics for Decision Making
+Curtin University
 
 ## Tools
 
